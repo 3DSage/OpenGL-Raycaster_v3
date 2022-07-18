@@ -1,0 +1,20 @@
+{
+  "name": "opengl-raycaster_v3",
+  "version": "1.0.0",
+  "description": "3DSage's raycaster v3 ported to typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrkn/OpenGL-Raycaster_v3.git"
+  },
+  "keywords": [],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/OpenGL-Raycaster_v3/issues"
+  },
+  "homepage": "https://github.com/nrkn/OpenGL-Raycaster_v3#readme"
+}

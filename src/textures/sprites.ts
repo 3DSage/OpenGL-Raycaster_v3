@@ -1,5 +1,5 @@
-int sprites[]=
-{
+export const sprites =
+[
 255,
 12,
 14,
@@ -9216,4 +9216,4 @@ int sprites[]=
 255,
 0,
 255,
-};
+]

@@ -1,5 +1,5 @@
-int All_Textures[]=
-{
+export const All_Textures =
+[
 48,
 25,
 41,
@@ -27648,4 +27648,4 @@ int All_Textures[]=
 56,
 35,
 31,
-};
+]
